@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hemant Khedkar</h1>
 <h3 align="center">Angular developer | Front end developer | Full Stack Developer</h3>
+<p> 👋 Hi there! I'm Hemant Khedkar, an enthusiastic Angular developer passionate about creating interactive and responsive web applications. With over 1.6 of experience in web development, I specialize in leveraging the power of Angular to build scalable and efficient front-end solutions.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemant895&label=Profile%20views&color=0e75b6&style=flat" alt="hemant895" /> </p>
 
