@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Angular, NODE JS Cognitive Service
 - 🌱 I’m currently learning RxJS, NgRx, GraphQL ,React js ,Mongo DB
 - 💬 Ask me about Angular, Firebase, Blogging
-- 📫 How to reach me: [@cyber_dost][Telegram]
+- 📫 How to reach me: [@cyber_dost][Telegram] 
 
 ## 🤝 Connect with me:
 
