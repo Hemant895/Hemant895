@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **hemantkhedkar102034@gmail.com**
 
-- 📄 My Resume Link:- [https://drive.google.com/file/d/178-Pe9N8NbPjmZ6gmmBXyeUpQLzo8edc/view?usp=drivesdk](https://drive.google.com/file/d/178-Pe9N8NbPjmZ6gmmBXyeUpQLzo8edc/view?usp=drivesdk)
+- 📄 My Resume Link:- [[https://drive.google.com/file/d/178-Pe9N8NbPjmZ6gmmBXyeUpQLzo8edc/view?usp=drivesdk](https://drive.google.com/file/d/178-Pe9N8NbPjmZ6gmmBXyeUpQLzo8edc/view?usp=drivesdk)](https://drive.google.com/file/d/1Tfj-MWCdAFcmI8Gq3ooLVmcm94AVZ0m7/view?usp=drivesdk)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
