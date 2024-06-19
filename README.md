@@ -16,18 +16,6 @@
 
 - 📄 My Resume Link:- https://drive.google.com/file/d/1Tfj-MWCdAFcmI8Gq3ooLVmcm94AVZ0m7/view?usp=drivesdk
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/Hemant895/Quickorder-web-application-" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=Card-Spend-Tracker-React&description_lines_count=2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shubhamshekhar23/E-Commerce-App-React" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=E-Commerce-App-React&description_lines_count=2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/shubhamshekhar23/Hotel-Booking-App-Angular" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=Hotel-Booking-App-Angular&description_lines_count=2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shubhamshekhar23/Movie-Watchlist-Vue" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=Movie-Watchlist-Vue&description_lines_count=2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-<br /><br /><br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/shubhamshekhar23/Art-Gallery-Angular" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=Art-Gallery-Angular&description_lines_count=2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/shubhamshekhar23/Delivery-Cost-Angular" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=shubhamshekhar23&repo=Delivery-Cost-Angular&description_lines_count=2&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
-
-<br /><br /><br /><br /><br /><br /><br />
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/hemant-khedkar-87972b17a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemant-khedkar-87972b17a" height="30" width="40" /></a>
